@@ -11,33 +11,6 @@ body{
     background-repeat: no-repeat;
 }
 
-.navul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #573535;
-}
-  
-.navli {
-    float: right;
-}
-  
-.navli a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    transition: all 0.25s;
-}
-  
-.navli a:hover {
-    background-color: #7c0b0b;
-    transform: scale(1.1);
-    transition: all 0.65s;
-}
-
 .name{
     margin-right: 895px;
 }
