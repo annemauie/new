@@ -4,7 +4,7 @@ import { leftDiv } from "./info.js"
 
 const dataOne = {
     title:      "LOREM",
-    para:       "Lorem hasbduhwbfbjnadsn nwqundunwudxnw8u uwnedu8nw8udn",
+    para:       "“A girl gamer describes a female who regularly engages in the playing of video games, role-playing games, or other games (colloquially referred to as gaming). This can be from the most casual interest to the most serious professional gaming.”",
     button:     "Contact me",
     image:      "sl.png"
 }
