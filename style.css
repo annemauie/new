@@ -198,7 +198,7 @@ a {
 
     .imgc {
         width: 90%; /* Adjust image width for smaller screens */
-        margin: 0; /* Remove margins */
+        margin: 0 auto; /* Center the image */
     }
 
     .title1,
