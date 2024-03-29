@@ -7,11 +7,18 @@
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="style2.css">
 </head>
+<nav>
+    <a href="#" class="back-button" onclick="goBack()">Back</a>
+</nav>
 <body>
     <div class="sectionOne" id="sectionOne"></div>
     <div class="sectionTwo" id="sectionTwo"></div>
 
-    
+    <script>
+        function goBack() {
+            window.history.back();
+        }
+    </script>
     <script type="module" src="./app.js"></script>
 </body>
 </html>
