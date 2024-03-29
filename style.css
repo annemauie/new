@@ -189,15 +189,31 @@ a {
 }
 
 @media screen and (max-width: 768px) {
-    .container {
-        flex-direction: column;
+    .sectionOne,
+    .sectionTwo {
+        flex-direction: column; /* Stack sections vertically */
         align-items: center;
+        text-align: center;
+    }
+
+    .imgc {
+        width: 90%; /* Adjust image width for smaller screens */
+        margin: 0; /* Remove margins */
+    }
+
+    .title1,
+    .title2 {
+        margin: 20px 0; /* Add spacing between titles */
+    }
+
+    .container {
+        max-width: 90%; /* Adjust container width for smaller screens */
     }
 
     .column1,
     .column2,
     .column3 {
-        width: 100%; /* Set width to 100% for stacking on mobile */
-        margin-bottom: 20px; /* Add spacing between columns */
+        width: 90%; /* Adjust column width for smaller screens */
+        margin: 0 auto 20px; /* Add spacing between columns */
     }
 }
