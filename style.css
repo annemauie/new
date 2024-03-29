@@ -213,7 +213,7 @@ a {
     .column1,
     .column2,
     .column3 {
-        width: calc(100% - 40px); /* Adjust column width for smaller screens */
+        width: calc(100% - 20px); /* Adjust column width for smaller screens */
         margin: 0 auto 20px; /* Add spacing between columns */
     }
 }
