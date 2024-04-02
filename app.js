@@ -13,15 +13,15 @@ const dataTwo = {
     title2:     "GIRL GAMER",
 
     image1:     "(4).jpg",
-    para1:      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum, minus maiores! Incidunt, voluptate velit libero saepe maxime perspiciatis enim et illo possimus deserunt hic adipisci dolor at repudiandae! Ad, cumque.",
+    para1:      "For people who associate the term gamer girl with the negative “fake” stereotype, the alternative girl gamer is a way to emphasize the gamer part of their identity.",
     button1:    "View",
 
     image2:     "(5).webp",
-    para2:      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum, minus maiores! Incidunt, voluptate velit libero saepe maxime perspiciatis enim et illo possimus deserunt hic adipisci dolor at repudiandae! Ad, cumque.",
+    para2:      "For people who associate the term gamer girl with the negative “fake” stereotype, the alternative girl gamer is a way to emphasize the gamer part of their identity.",
     button2:    "View",
 
     image3:     "(6).jpg",
-    para3:      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum, minus maiores! Incidunt, voluptate velit libero saepe maxime perspiciatis enim et illo possimus deserunt hic adipisci dolor at repudiandae! Ad, cumque.",
+    para3:      "For people who associate the term gamer girl with the negative “fake” stereotype, the alternative girl gamer is a way to emphasize the gamer part of their identity. ",
     button3:    "View"
 }
 
